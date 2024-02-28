@@ -33,10 +33,25 @@ NutriCraft is a Streamlit web application that acts as your personal nutritionis
 
 **2.Choose an image by clicking on the "Choose an image..." button.**
 
-**3.Click on "Tell me the total calories" to get detailed nutritional information.**
+**3.Click on "Submit" to get detailed nutritional information.**
 
 ## Screenshots
 
+**Homepage**
+
+<img width="959" alt="1" src="https://github.com/Abhishek-AMK/NutriCraft-Craft-Your-Palate/assets/113782190/71c0d500-c328-48c5-9fba-4c0a9f79276d">
+
+**Uploading the image**
+
+<img width="959" alt="2" src="https://github.com/Abhishek-AMK/NutriCraft-Craft-Your-Palate/assets/113782190/25437615-627a-48ec-adfc-5b96720c7c36">
+
+**Press the submit button**
+
+<img width="960" alt="3" src="https://github.com/Abhishek-AMK/NutriCraft-Craft-Your-Palate/assets/113782190/f80b1604-6c42-481e-a536-133b26b1e3c3">
+
+**Getting the response**
+
+<img width="956" alt="image" src="https://github.com/Abhishek-AMK/NutriCraft-Craft-Your-Palate/assets/113782190/897820f1-828e-435b-8b9c-41d38fbc308e">
 
 ## Tech Stack
 
